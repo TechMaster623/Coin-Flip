@@ -20,7 +20,7 @@ struct ContentView: View {
                     Spacer()
                     Image("Coin Background")// this is a welcome image
                     Spacer()
-                    NavigationLink("Next Screen", destination:  SwiftUIView())// the link taht takes you to the next screen.
+                    NavigationLink("Next Screen", destination:  SwiftUIView())// the link taht takes you to the next screen.%
                         .padding()
                         .border(.black, width: 5)
                         .font(.system(size: 30))
